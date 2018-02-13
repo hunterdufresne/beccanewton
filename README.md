@@ -245,7 +245,7 @@ function myFunction() {
 	<h3>If you or a loved one is suffering from Extra Letter Syndrome, please visit <a href="https://media.giphy.com/media/Pgy4Na8aRyBuE/giphy.gif">The Americans Against Hipsters</a> <br /><em>Edit:</em> The true identy of <a href="https://www.youtube.com/watch?v=4LZo9ugJTWQ&t=1s">Gregg</a> has been discovered.
 	<br /><sup>***</sup><a href="https://www.quora.com/What-is-average-number-of-letters-in-a-first-name">Reference</a></h3></div></div>
 
- 
+ <!--i hope this works-->
 
 
 
